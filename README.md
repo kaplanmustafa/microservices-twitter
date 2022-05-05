@@ -26,4 +26,4 @@
 
 **Project Schema:**
 
-![alt text](https://github.com/kaplanmustafa/microservices-twitter/blob/project-schema-image/project_schema.png)
+![project-schema](https://github.com/kaplanmustafa/microservices-twitter/blob/project-schema-image/project_schema.png)
