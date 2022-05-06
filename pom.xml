@@ -5,6 +5,7 @@
     <modules>
         <module>twitter-to-kafka-service</module>
         <module>app-config-data</module>
+        <module>kafka</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
